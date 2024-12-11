@@ -2,7 +2,7 @@ This project contains simple tasks to be completed using C++
 
 # Instructions
 
-1. Open the solution using Visual Studio 2022 or greater
+1. Open the solution  ([CITY1144.sln](./CITY1144.sln)) using Visual Studio 2022 or greater
 2. Goto View > Test Explorer and press the run button >>
 
 
