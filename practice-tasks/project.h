@@ -21,9 +21,4 @@ public:
 	{
 		return description;
 	}
-
-
-
-	
-
 };

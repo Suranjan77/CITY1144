@@ -10,7 +10,3 @@ Employee::Employee(std::string name, int id, double salary) {
 double Employee::calculateBonus() {
 	return 0.0;
 }
-
-
-
-	
