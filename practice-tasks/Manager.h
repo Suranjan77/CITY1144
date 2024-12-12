@@ -23,5 +23,10 @@ public:
 	std::string getDepartment() {
 		return department;
 	}
+
+	void setDepartment(string x)
+	{
+		department = x;
+	}
 };
 
